@@ -1,0 +1,14 @@
+﻿  18120212.cpp
+  Bill.cpp
+D:\Downloads\OOp\Tuan51\18120212\18120212\Bill.cpp(16,6): warning C4101:  'price': unreferenced local variable
+D:\Downloads\OOp\Tuan51\18120212\18120212\Bill.cpp(48,6): warning C4101:  'price': unreferenced local variable
+  Book.cpp
+  Guest.cpp
+  Header.cpp
+  ListBook.cpp
+D:\Downloads\OOp\Tuan51\18120212\18120212\Bill.cpp(87,20): warning C4018:  '<': signed/unsigned mismatch
+D:\Downloads\OOp\Tuan51\18120212\18120212\ListBook.cpp(23,21): warning C4018:  '<': signed/unsigned mismatch
+  User.cpp
+  Generating Code...
+D:\Downloads\OOp\Tuan51\18120212\18120212\ListBook.cpp(32,20): warning C4018:  '<': signed/unsigned mismatch
+  18120212.vcxproj -> D:\Downloads\OOp\Tuan51\18120212\Debug\18120212.exe
